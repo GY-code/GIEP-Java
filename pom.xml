@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>BJTU.SSE</groupId>
+  <artifactId>GIEP</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Game Information and Entertainment Platform</name>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>mysql</groupId>
+  		<artifactId>mysql-connector-java</artifactId>
+  		<version>8.0.21</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>javazoom</groupId>
+  		<artifactId>jlayer</artifactId>
+  		<version>1.0.1</version>
+  	</dependency>
+  </dependencies>
+</project>
