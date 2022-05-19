@@ -1,7 +1,7 @@
 # GIEP
 
 #### Description
-GIEP
+Game Information and Entertainment Platform
 
 #### Software Architecture
 Software architecture description

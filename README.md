@@ -1,7 +1,7 @@
 # GIEP
 
 #### 介绍
-GIEP
+Game Information and Entertainment Platform
 
 #### 软件架构
 软件架构说明
