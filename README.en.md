@@ -3,9 +3,6 @@
 ## Introduction
 Game entertainment information platform, Java basics application, built-in aircraft battle mini-games and dynamic communication, battle results list and other consulting functions.
 
-## Function module diagram
-![Function module diagram](功能模块图.png)
-
 ## Function implementation description
 
 ### 1 Information exchange module
@@ -56,9 +53,17 @@ Realize rich video and audio effects in the scenes in the game.
 
 After the game is over, send the game performance to the server side and make it available for the platform client to read.
 
+## ScreenShots
+![img.png](ScreenShot1.png)
+![img.png](ScreenShot2.png)
+![img.png](ScreenShot3.png)
+
+## Function module diagram
+![Function module diagram](功能模块图.png)
+
 ## User Manual
 
-[用户使用手册](用户使用手册.pdf)
+[User Manual](用户使用手册.pdf)
 
 ## Contribute
 
